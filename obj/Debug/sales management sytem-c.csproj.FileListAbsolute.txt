@@ -1,0 +1,21 @@
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\bin\Debug\sales management sytem-c.exe.config
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\bin\Debug\sales management sytem-c.exe
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\bin\Debug\sales management sytem-c.pdb
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales management sytem-c.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.Properties.Resources.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales management sytem-c.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales management sytem-c.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales management sytem-c.exe
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales management sytem-c.pdb
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.Registeration.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.customerDetails.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.productDetails.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.supplierDetails.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.login.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.Password_Reset.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.Order.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.customerReport.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.SalesCustomerDetails.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.Admin.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.User.resources
+C:\Users\lenovo\source\repos\sales management sytem-c\sales management sytem-c\obj\Debug\sales_management_sytem_c.ProductReport.resources
